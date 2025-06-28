@@ -1,10 +1,4 @@
-Here’s a `README.md` for your project:
 
----
-
-### 📄 `README.md`
-
-````markdown
 # SQLite ORM Demo using SQLAlchemy
 
 This project demonstrates how to use Python's SQLAlchemy ORM to:
